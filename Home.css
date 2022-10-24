@@ -1,0 +1,78 @@
+ .u-section-1 {
+  background-image: url("images/SaltyOceanMan_long_road_trees_on_both_sides_sunset_autumn_reali_4007de12-a2a9-42b1-8fa6-8e0f185dcdfb.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 606px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: 27px auto 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 49px;
+  min-height: 16px;
+  width: 166px;
+  min-width: 68px;
+  margin: -49px 27px 0 auto;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 49px;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 0;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 66px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: 66px auto 60px;
+  padding: 22px 398px 23px 397px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 599px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    width: 167px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 638px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 703px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 480px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}
